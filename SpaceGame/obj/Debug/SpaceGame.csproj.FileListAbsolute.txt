@@ -1,0 +1,9 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.frmSpaceGame.resources
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
